@@ -4,6 +4,9 @@
 *example*
 *.pdf
 
+#intellij
+.idea/*
+cmake-build-debug/*
 
 # c++
 # Prerequisites

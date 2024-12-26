@@ -1,3 +1,11 @@
+# Advent of Code specific
+# input files and puzzle text (including examples)
+*input
+*example*
+*.pdf
+
+
+# c++
 # Prerequisites
 *.d
 
